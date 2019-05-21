@@ -1,0 +1,7 @@
+epochs: 10
+lstm_hidden_dimension: 300
+batch_size: 64
+d_a: 200
+emb_size: 300
+GPU: True
+use_cuda: True
