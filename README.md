@@ -1,8 +1,6 @@
 This is the code for our paper "Label-Specific Document Representation for Multi-Label Text Classification" 
 
-Requirements:
-
-  Ubuntu 16.0.4;
+Requirements: Ubuntu 16.0.4;
   Python 3.6.7;
   Pytorch 1.0.0;
   mxnet 1.3.1;
