@@ -9,3 +9,5 @@ Reproducibility: We provide the processed dataset AAPD, put them in the folder./
 
 Train: python classification.py
 
+Processed data download: https://drive.google.com/file/d/1QoqcJkZBHsDporttTxaYWOM_ExSn7-Dz/view
+
