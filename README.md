@@ -9,4 +9,3 @@ Reproducibility: We provide the processed dataset AAPD, put them in the folder./
 
 Train: python classification.py
 
-Note: Due to the paper is still waiting to be accepted, the complete code will be published after the paper is accepted.
