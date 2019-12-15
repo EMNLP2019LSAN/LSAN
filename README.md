@@ -1,11 +1,11 @@
 This is the code for our paper "Label-Specific Document Representation for Multi-Label Text Classification" 
 If you make use of this code or the GraphSage algorithm in your work, please cite the following paper:
 
-@inproceedings{xiao2019label,\\
-  title={Label-Specific Document Representation for Multi-Label Text Classification},\\
-  author={Xiao, Lin and Huang, Xin and Chen, Boli and Jing, Liping},\\
-  booktitle={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},\\
-  pages={466--475},\\
+@inproceedings{xiao2019label,
+  title={Label-Specific Document Representation for Multi-Label Text Classification},
+  author={Xiao, Lin and Huang, Xin and Chen, Boli and Jing, Liping},
+  booktitle={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)},
+  pages={466--475},
   year={2019}
 }
  
