@@ -1,5 +1,5 @@
 This is the code for our paper "Label-Specific Document Representation for Multi-Label Text Classification"   
-If you make use of this code or the GraphSage algorithm in your work, please cite the following paper:
+If you make use of this code or the LSAN algorithm in your work, please cite the following paper:
 
 @inproceedings{xiao2019label,  
   title={Label-Specific Document Representation for Multi-Label Text Classification},  
